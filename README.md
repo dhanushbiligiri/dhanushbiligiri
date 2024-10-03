@@ -2,8 +2,9 @@
 
 - A Full-time PhD student by day ☼ 
 - 🔭 I’m currently working on legged locomotion in robotics using reinforcement learning
-📘 Education
 
+
+📘 Education
 -PhD | Computer Engineering
  Michigan Technological University
  Houghton MI
