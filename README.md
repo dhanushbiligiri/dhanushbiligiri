@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- A Full-time PhD student by day ☼ 
+- 📓 A Full-time PhD student by day ☼
 - 🔭 I’m currently working on legged locomotion in robotics using reinforcement learning
 
 
