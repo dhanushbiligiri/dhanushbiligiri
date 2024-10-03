@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+- A Full-time PhD student by day ☼ 
+- 🔭 I’m currently working on legged locomotion in robotics using reinforcement learning
+📘 Education
+
+-PhD | Computer Engineering
+ Michigan Technological University
+ Houghton MI
+ 
+-Masters | Data Science
+ Michigan Technological University
+ Houghton MI 
+
+-Bachelor's | Information Science and Engineering (CS)
+ Visvesvaraya Technological University
+ Bengaluru, India
 <!--
 **dhanushbiligiri/dhanushbiligiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
