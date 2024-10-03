@@ -23,7 +23,7 @@
  Bengaluru, India
 
 
-[![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logoColor=white&link=https://github.com/dhanushbiligiri/dhanushbiligiri/blob/main/Dhanush-Biligiri-FlowCV-Resume-20240603%20(1).pdf)](https://github.com/dhanushbiligiri/dhanushbiligiri/blob/main/Dhanush-Biligiri-FlowCV-Resume-20240603%20(1).pdf)
+[![Resume Badge](https://img.shields.io/badge/-Resume-teal?style=flat-square&logoColor=white&link=https://github.com/dhanushbiligiri/dhanushbiligiri/blob/main/Dhanush-Biligiri-FlowCV-Resume-20240603%20(1).pdf)](https://github.com/dhanushbiligiri/dhanushbiligiri/blob/main/Dhanush-Biligiri-FlowCV-Resume-20240603%20(1).pdf)
 <!--
 **dhanushbiligiri/dhanushbiligiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
