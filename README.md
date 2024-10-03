@@ -1,7 +1,7 @@
 <img src = hello.gif>
 
 
-## Hi there 👋
+//## Hi there 👋
 
 
 - 👨 I'm Dhanush Biligiri,  a PhD student from Michigan technological University with a background in Data Science and Engineering.
