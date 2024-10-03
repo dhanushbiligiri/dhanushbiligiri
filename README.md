@@ -21,6 +21,9 @@
 -Bachelor's | Information Science and Engineering (CS),
  Visvesvaraya Technological University,
  Bengaluru, India
+
+
+[![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logoColor=white&link=https://github.com/scakki/resume/blob/main/Resume.pdf)](https://github.com/scakki/resume/blob/main/Resume.pdf)
 <!--
 **dhanushbiligiri/dhanushbiligiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
