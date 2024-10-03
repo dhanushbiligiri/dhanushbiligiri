@@ -6,16 +6,16 @@
 
 📘Education
 
--PhD | Computer Engineering
- Michigan Technological University
+-PhD | Computer Engineering,
+ Michigan Technological University,
  Houghton MI
  
--Masters | Data Science
- Michigan Technological University
+-Masters | Data Science,
+ Michigan Technological University,
  Houghton MI 
 
--Bachelor's | Information Science and Engineering (CS)
- Visvesvaraya Technological University
+-Bachelor's | Information Science and Engineering (CS),
+ Visvesvaraya Technological University,
  Bengaluru, India
 <!--
 **dhanushbiligiri/dhanushbiligiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
