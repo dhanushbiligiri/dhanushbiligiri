@@ -25,7 +25,6 @@
 
 [![Resume Badge](https://img.shields.io/badge/-Resume-teal?style=flat-square&logoColor=white&link=https://github.com/dhanushbiligiri/dhanushbiligiri/blob/main/Dhanush-Biligiri-FlowCV-Resume-20240603%20(1).pdf)](https://github.com/dhanushbiligiri/dhanushbiligiri/blob/main/Dhanush-Biligiri-FlowCV-Resume-20240603%20(1).pdf)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-teal?style=flat-square&logoColor=white&link=https://dhanushbiligiri.github.io/)](https://dhanushbiligiri.github.io/)
-### 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=dhanushbiligiri&color=brightgreen)
 
 <!--
