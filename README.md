@@ -19,7 +19,7 @@
  Houghton MI 
 
 -Bachelor's | Information Science and Engineering (CS),
- Visvesvaraya Technological University,
+ New Horizon College of Engineering University,
  Bengaluru, India
 
 
