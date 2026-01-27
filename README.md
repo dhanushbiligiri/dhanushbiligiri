@@ -18,7 +18,7 @@
  Michigan Technological University,
  Houghton MI 
 
--Bachelor's | Information Science and Engineering (CS),
+-Bachelor's | Information Science and Engineering (ISE),
  New Horizon College of Engineering University,
  Bengaluru, India
 
